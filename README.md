@@ -1,2 +1,4 @@
-# Stopwatch-HTML
-A Stopwatch WebApp
+# Stopwatch Web Application
+* Using HTML,CSS styles and JS script
+#
+Live demo: [Stopwatch]()
